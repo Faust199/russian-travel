@@ -3,3 +3,9 @@
     padding: 0;
 }
 
+@media screen and (max-width: 658px){
+    .places__paragraph-list {
+        margin-right: 16px;
+        margin-left: 16px;
+    }
+}

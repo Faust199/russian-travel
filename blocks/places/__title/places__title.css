@@ -15,3 +15,13 @@
         line-height: 109%;
     }
 }
+
+@media screen and (max-width: 658px){
+    .places__title {
+        width: 288px;
+        font-size: 32px;
+        line-height: 109%;
+        margin-left: 16px;
+        margin-right: 16px;
+    }
+}

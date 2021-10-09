@@ -18,3 +18,9 @@
         margin-right: auto;
     }
 }
+
+@media screen and (max-width: 658px) {
+    .lead__box {
+        margin-top: 40px;
+    }
+}

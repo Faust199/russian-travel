@@ -8,3 +8,10 @@
     margin: 0;
     padding: 0;
 }
+
+
+@media screen and (max-width: 658px){
+    .places__website-url {
+        margin-bottom: 12px;
+    }
+}

@@ -7,3 +7,10 @@
     margin: 0;
     padding: 0;
 }
+
+@media screen and (max-width: 658px){
+    .footer__link-list {
+        grid-template-columns: 1fr;
+        gap: 32px;
+    }
+}
