@@ -14,3 +14,9 @@
 @import url(../blocks/lead/image/lead__image.css);
 @import url(../blocks/lead/title/lead__title.css);
 @import url(../blocks/lead/subtitle/lead__subtitle.css);
+@import url(../blocks/intro/intro.css);
+@import url(../blocks/intro/list/intro__list.css);
+@import url(../blocks/intro/list-item/intro__list-item.css);
+@import url(../blocks/intro/list-text/intro__list-text.css);
+@import url(../blocks/intro/text/intro__text.css);
+@import url(../blocks/intro/title/intro__title.css);
