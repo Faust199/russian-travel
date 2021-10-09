@@ -3,3 +3,9 @@
     grid-template-columns: repeat(2, 1fr);
     margin: 92px 48px 24px 48px;
 }
+
+@media screen and (max-width: 768px){
+    .footer {
+        margin: 88px 24px 24px 24px;
+    }
+}
