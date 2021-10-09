@@ -1,0 +1,15 @@
+.places__paragraph {
+    max-width: 484px;
+    min-width: 288px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 163%;
+    color: #FFFFFF;
+    margin: 0 0 26px 0;
+    padding: 0;
+}
+
+.place__paragraph:last-child {
+    margin: 0;
+}
