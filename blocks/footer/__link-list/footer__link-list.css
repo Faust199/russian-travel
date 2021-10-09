@@ -1,0 +1,9 @@
+.footer__link-list {
+    display: grid;
+    grid-template-columns: repeat(5, minmax(min-content, max-content));
+    grid-auto-columns: auto;
+    gap: 18px;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}

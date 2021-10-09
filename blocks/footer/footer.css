@@ -1,0 +1,5 @@
+.footer {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    margin: 92px 48px 24px 48px;
+}
