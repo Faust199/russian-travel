@@ -1,11 +1,13 @@
-.places__paragraph-list {
+.place__website {
+    align-self: end;
     margin: 0;
     padding: 0;
 }
 
 @media screen and (max-width: 658px){
-    .places__paragraph-list {
-        margin-right: 16px;
+    .place__website {
         margin-left: 16px;
+        margin-right: 16px;
     }
 }
+
